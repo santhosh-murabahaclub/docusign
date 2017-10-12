@@ -1,0 +1,22 @@
+docusign:
+  baseUrl: https://demo.docusign.net/restApi/v2/
+  username: santhosh@murabahaclub.com
+  password: Passw0rd
+  ikey: 2122ca09-f0a0-4b92-924f-b8e6d3751659
+  oAuthUrl: account-d.docusign.com
+  
+  
+server:
+  port: 7000 
+Keypair ID: f176ad75-ac7c-4355-b0ec-e3336d180d9c
+
+httpclient:
+  pool:
+    connection:
+      timeout: 600000
+      idle:
+        timeout: 1000
+      max:
+        value: 30
+        per:
+          route: 20
