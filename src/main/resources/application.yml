@@ -1,9 +1,19 @@
 docusign:
   baseUrl: https://demo.docusign.net/restApi/v2/
   username: santhosh@murabahaclub.com
-  password: Passw0rd
+  password: P@ssw0rd
   ikey: 2122ca09-f0a0-4b92-924f-b8e6d3751659
   oAuthUrl: account-d.docusign.com
+  templateID: 4e956020-d5b4-4da2-99a6-baa4454e431f
+  ebaseUrl: https://demo.docusign.net/restApi/v2/accounts
+  accountId: 3752085
+
+
+Ziggeo:
+  token: r146516dea8395be489f528f7d9e4693
+  privateKey: r1c9b028fb8c6d2ce7a8cffdf11ed68d
+  encryt: r102fbfdd8178103862c9ec31b4ddebb
+
   
   
 server:
